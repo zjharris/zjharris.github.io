@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-# Bio
+Bio
+
+=====
 
 Lorem ipsum dolor
