@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "LaTeX Guide"
-    url: /markdown/
+  # - title: "LaTeX Guide"
+  #   url: /markdown/
